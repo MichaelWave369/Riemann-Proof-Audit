@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env*
+.DS_Store
+*.pyc
+__pycache__/
+.pytest_cache/
+audit-report.json
+lean.tar.gz
+lean.tar.gz.partial
+lean.tar.gz.part*
